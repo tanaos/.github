@@ -1,35 +1,23 @@
-<p align='center'>
+<p align="center">
     <img src='https://raw.githubusercontent.com/tanaos/.github/master/assets/banner.png' alt='tanaos logo' width='100%' /> 
 </p>
 
-Welcome to the **Tanaos** Github page! At Tanaos, we enable developers to create small and efficient AI models that **don't need training data** and that run **directly on their device**, ensuring privacy and security. Our mission is to make AI accessible to everyone, everywhere.
+<p align="center">
+    <strong>
+        <a href="https://x.com/TanaosAI">🐦 X/Twitter</a> | 🎓 <a href="https://www.linkedin.com/company/tanaos">LinkedIn</a> | 📚 <a href="https://docs.tanaos.com">Docs</a> | 🌐 <a href="https://tanaos.com">Website</a>
+    </strong>
+</p>
 
-## 🚀 Quickstart
+Here is a list of the task-specific Small Language Models developed by Tanaos for various text processing tasks. Below are the details of each model along with links to their Hugging Face repositories and code examples for easy integration.
 
-If you are just getting started, take a look at our two open-source python libraries:
+**Every model can be used and fine-tuned on CPU**, making them accessible for a wide range of applications.
 
-- [Artifex](https://github.com/tanaos/artifex) — generate private AI models with no training data
-- [Synthex](https://github.com/tanaos/synthex) — create synthetic data for training AI models and more
-
-## 👨‍🏫 Tutorials
-
-Try our tutorials to get started with our libraries:
-
-- [Getting Started with Artifex](https://docs.tanaos.com/artifex/tutorials)
-- [Using Synthex for Data Generation](https://docs.tanaos.com/synthex/tutorials/intro)
-
-## 📚 Documentation
-
-Here you can find the full documentation for our libraries:
-
-- [Artifex Documentation](https://docs.tanaos.com/artifex)
-- [Synthex Documentation](https://docs.tanaos.com/synthex)
-
-## ❤️ Contribute
-
-We welcome contributions to our projects! If you have ideas, improvements, or bug fixes, do not hesitate to open an issue or submit a pull request to any of our repositories.
-
-## 🌐 Follow Us!
-
-- 🐦 [Follow us on X/Twitter](https://x.com/TanaosAI)
-- 🎓 [Follow us on LinkedIn](https://www.linkedin.com/company/tanaos)
+| Model | Size | Description | Links |
+|-------|------|-------------|------------|
+| 🛡️ Guardrail | 0.1B params, 500Mb | Flags unsafe, harmful, or off-topic messages. | [HF](https://huggingface.co/tanaos/tanaos-guardrail-v1) • [Code Examples](https://docs.tanaos.com/artifex/guardrail/code_examples/)
+| 🗣️ Intent Classification | 0.1B params, 500Mb | Classifies user messages into predefined intent categories. | [HF](https://huggingface.co/tanaos/tanaos-intent-classifier-v1) • [Code Examples](https://docs.tanaos.com/artifex/intent-classifier/code_examples/)
+| 🔀 Reranker | 0.1B params, 470Mb | Ranks a list of items or search results based on relevance to a query. | [HF](https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1) • [Code Examples](https://docs.tanaos.com/artifex/reranker/code_examples/)
+| 🙂 Sentiment Analysis | 0.1B params, 470Mb | Determines the sentiment (positive, negative, neutral) of a given text. | [HF](https://huggingface.co/tanaos/tanaos-sentiment-analysis-v1) • [Code Examples](https://docs.tanaos.com/artifex/sentiment-analysis/code_examples/)
+| 😡 Emotion Detection | 0.1B params, 470Mb | Identifies the emotion expressed in a given text. | [HF](https://huggingface.co/tanaos/tanaos-emotion-detection-v1) • [Code Examples](https://docs.tanaos.com/artifex/emotion-detection/code_examples/)
+| 🏷️ Named Entity Recognition (NER) | 0.1B params, 500Mb | Detects and classifies named entities in text. | [HF](https://huggingface.co/tanaos/tanaos-NER-v1) • [Code Examples](https://docs.tanaos.com/artifex/named-entity-recognition/code_examples/)
+| 🥸 Text Anonymization | 0.1B params, 500Mb | Removes personally identifiable information (PII) from text. | [HF](https://huggingface.co/tanaos/tanaos-text-anonymizer-v1) • [Code Examples](https://docs.tanaos.com/artifex/text-anonymization/code_examples/)
