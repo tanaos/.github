@@ -4,13 +4,11 @@
 
 <p align="center">
     <strong>
-        <a href="https://x.com/TanaosAI">X/Twitter</a> | <a href="https://www.linkedin.com/company/tanaos">LinkedIn</a> | <a href="https://docs.tanaos.com">Docs</a> | <a href="https://tanaos.com">Website</a> | <a href="https://slm.tanaos.com/docs">API</a>
+        <a href="https://x.com/TanaosAI">X/Twitter</a> | <a href="https://www.linkedin.com/company/tanaos">LinkedIn</a> | <a href="https://docs.tanaos.com">Docs</a> | <a href="https://tanaos.com">Website</a>
     </strong>
 </p>
 
-Here is a list of the task-specific Small Language Models developed by Tanaos for various text processing tasks. 
-
-All models can be used and fine-tuned on CPU via the [Artifex library](https://github.com/tanaos/artifex). Don't want to self-host? You can also access these models through Tanaos' [Small-Language-Model API](https://slm.tanaos.com/docs).
+Here is a list of the task-specific Small Language Models developed by Tanaos for various text processing tasks. All models can be used and fine-tuned on CPU via the [Artifex library](https://github.com/tanaos/artifex), and are also available on our [Hugging Face page](https://huggingface.co/tanaos) for download.
 
 | Model | Description | Artifex | Hugging Face |
 |-------|-------------|-------------|---------|
