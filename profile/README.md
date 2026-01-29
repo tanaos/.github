@@ -8,13 +8,13 @@
     </strong>
 </p>
 
-At Tanaos we develop task-specific Small Language Models for various text processing tasks. The table below lists the available models along with links to several ways to use them.
+At Tanaos we develop **task-specific Small Language Models** for various text processing tasks. The table below lists the available models along with links to several ways to use them.
 
-For ease of use and maximum performance, we recommend using them through the [Tanaos API](https://colab.research.google.com/github/tanaos/tanaos-docs/blob/master/blueprints/tanaos-api/tanaos-api-tutorial.ipynb). With 100ms end-to-end latency, our API is perfect for real-time applications. Get a free API key by signing up on [our platform](https://platform.tanaos.com).
+For ease of use and maximum performance, **we recommend using them through the [Tanaos API](https://colab.research.google.com/github/tanaos/tanaos-docs/blob/master/blueprints/tanaos-api/tanaos-api-tutorial.ipynb)**. With 100ms end-to-end latency, our API is perfect for real-time applications. Get a free API key by signing up on [our platform](https://platform.tanaos.com).
 
 If you'd rather use the models on your own metal, or if you want to fine-tune them on your specific tasks without training data, use our open-source [Artifex library](https://github.com/tanaos/artifex). 
 
-Additionally, all models are available for downloaded from our [Hugging Face page](https://huggingface.co/tanaos).
+Additionally, all models are available for download from our [Hugging Face page](https://huggingface.co/tanaos).
 
 | Model | Description | API | Artifex | HuggingFace |
 |-------|-------------|-----|---------|-------------|
