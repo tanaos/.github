@@ -4,15 +4,17 @@
 
 <p align="center">
     <strong>
-        <a href="mailto:info@tanaos.com">info@tanaos.com</a> | <a href="https://x.com/TanaosAI">X/Twitter</a> | <a href="https://www.linkedin.com/company/tanaos">LinkedIn</a> | <a href="https://docs.tanaos.com">Docs</a> | <a href="https://tanaos.com">Website</a> | <a href="https://colab.research.google.com/github/tanaos/tanaos-docs/blob/master/blueprints/tanaos-api/tanaos-api-tutorial.ipynb">API</a>
+        <a href="mailto:info@tanaos.com">info@tanaos.com</a> | <a href="https://tanaos.com">Website</a> | <a href="https://colab.research.google.com/github/tanaos/tanaos-docs/blob/master/blueprints/tanaos-api/tanaos-api-tutorial.ipynb">API</a>
     </strong>
 </p>
 
-At Tanaos we develop **task-specific Small Language Models** for various text processing tasks. While many of our models are publicly available, we also build custom models for our users and clients to meet their specific needs. If you are interested in learning more about our custom model development services, or if you have any questions at all, please reach out to us at info@tanaos.com.
+At Tanaos we develop **task-specific Small Language Models** for various text processing tasks. While many of our models are publicly available, we also build custom models for our users and clients to meet their specific needs. All models can be used both via API and on your local machine.
+
+If you are interested in learning more about our custom model development services, or if you have any questions at all, don't hesitate to reach out to us at info@tanaos.com.
 
 The table below lists our publicly available models along with links to several ways to use them. For ease of use and maximum performance, **we recommend using them through the [Tanaos API](https://colab.research.google.com/github/tanaos/tanaos-docs/blob/master/blueprints/tanaos-api/tanaos-api-tutorial.ipynb)**. Get a free API key by signing up on [our platform](https://platform.tanaos.com).
 
-If you'd rather use the models on your own metal, or if you want to fine-tune them on your specific tasks without training data, use our open-source [Artifex library](https://github.com/tanaos/artifex). Additionally, all models are available for download from our [Hugging Face page](https://huggingface.co/tanaos).
+If you'd rather use the models on your own metal, download them from our [Hugging Face page](https://huggingface.co/tanaos).
 
 | Model | Description | API | Artifex | HuggingFace |
 |-------|-------------|-----|---------|-------------|
