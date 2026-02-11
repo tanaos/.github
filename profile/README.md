@@ -10,7 +10,9 @@
 
 ## What we do
 
-At Tanaos we develop custom **task-specific Small Language Models** for any text processing tasks. While many of our models are publicly available, we also build custom models for our users and clients to meet their specific needs.
+At Tanaos we develop custom **task-specific Small Language Models** for any text processing task. While we mostly develop models for our users and clients, we also make many of our models publicly available for free to the community. 
+
+Due to their **very small size** (500MB, 0.1B params on average) and task-specific nature, our models are **lightning fast, highly accurate and CPU-friendly**. They also ensure data **privacy and security** by processing data locally on the user's device.
 
 ## Create your custom model now
 
