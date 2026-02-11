@@ -4,17 +4,21 @@
 
 <p align="center">
     <strong>
-        <a href="mailto:info@tanaos.com">info@tanaos.com</a> | <a href="https://tanaos.com">Website</a> | <a href="https://colab.research.google.com/github/tanaos/tanaos-docs/blob/master/blueprints/tanaos-api/tanaos-api-tutorial.ipynb">API</a>
+        <a href="https://tanaos.com/#try-it-out">Create Your Own Model</a> | <a href="https://tanaos.com">Website</a> | <a href="https://colab.research.google.com/github/tanaos/tanaos-docs/blob/master/blueprints/tanaos-api/tanaos-api-tutorial.ipynb">API</a>
     </strong>
 </p>
 
-At Tanaos we develop **task-specific Small Language Models** for various text processing tasks. While many of our models are publicly available, we also build custom models for our users and clients to meet their specific needs. All models can be used both via API and on your local machine.
+## What we do
 
-If you are interested in learning more about our custom model development services, or if you have any questions at all, don't hesitate to reach out to us at info@tanaos.com.
+At Tanaos we develop custom **task-specific Small Language Models** for any text processing tasks. While many of our models are publicly available, we also build custom models for our users and clients to meet their specific needs.
 
-The table below lists our publicly available models along with links to several ways to use them. For ease of use and maximum performance, **we recommend using them through the [Tanaos API](https://colab.research.google.com/github/tanaos/tanaos-docs/blob/master/blueprints/tanaos-api/tanaos-api-tutorial.ipynb)**. Get a free API key by signing up on [our platform](https://platform.tanaos.com).
+## Create your custom model now
 
-If you'd rather use the models on your own metal, download them from our [Hugging Face page](https://huggingface.co/tanaos).
+Create your own custom model for free now! No data required, simply tell us what you need and we'll take care of the rest: https://tanaos.com/#try-it-out
+
+## Publicly available models
+
+Curious to see what models we have built so far? Check out the list of our publicly available models below, and click on the links to see code examples and try them out for yourself!
 
 | Model | Description | API | Artifex | HuggingFace |
 |-------|-------------|-----|---------|-------------|
